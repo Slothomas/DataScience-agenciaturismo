@@ -33,14 +33,17 @@ Análisis de Tour por Mes: Cantidad de tours vendidos por mes, útil para entend
 Entre otras consultas...
 
 Implementación del Modelo OLAP
+
 El modelo OLAP permite organizar datos en cubos multidimensionales, favoreciendo la exploración de datos desde distintas perspectivas. Esta técnica es esencial para mejorar la capacidad de análisis de la empresa, evaluando el impacto de prácticas sustentables y tomando decisiones estratégicas basadas en datos sólidos​.
 
 Especificaciones de ETL (Extracción, Transformación y Carga)
+
 Extracción: Captura de datos desde diversas fuentes.
 Transformación: Limpieza, normalización y estructuración de datos.
 Carga: Inserción de datos transformados en el sistema de destino​.
 
 Resumen y Logros
+
 Este proyecto de cubo OLAP se presenta como una herramienta valiosa para el análisis multidimensional en tiempo real, permitiendo a la empresa entender tendencias y patrones de ventas. La implementación de este modelo junto con un proceso ETL eficiente y consultas específicas, posiciona a la empresa en una ventaja competitiva en un mercado dinámico y competitivo​.
 
 
