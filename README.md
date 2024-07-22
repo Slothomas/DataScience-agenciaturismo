@@ -2,12 +2,15 @@
 Diseño e implementación de bases de datos para empresa turística. También se construye un cubo OLAP orientado a la ventas para distintos analisis de BI
 
 Definición del Cubo OLAP
+
 El cubo OLAP diseñado para el sistema de turismo sustentable es una estructura multidimensional que permite analizar y visualizar datos relacionados con las ventas de tours. Su principal propósito es identificar tendencias de clientes hacia destinos específicos, guías preferidos y sucursales más efectivas, ya sean físicas o en línea. Esto facilita la definición de estrategias de marketing basadas en datos sólidos para distintas generaciones interesadas en los productos de la empresa​​.
 
 Funcionalidad en el Negocio
+
 La función principal del cubo OLAP es proporcionar información estratégica para la toma de decisiones en el negocio de turismo sustentable. Permite analizar las ventas de tours desde diferentes perspectivas como tiempo, ubicación, cliente y otros aspectos relevantes. Este análisis ayuda a identificar patrones, tendencias y oportunidades de mejora, abarcando áreas del negocio desde el rendimiento financiero hasta la satisfacción del cliente y la eficacia de las estrategias de marketing​​.
 
 Dimensiones del Cubo OLAP
+
 El cubo OLAP incluye varias dimensiones clave, cada una con jerarquías que permiten interpretar tendencias y analizar patrones de consumo.
 Dimensiones:
   Tiempo
